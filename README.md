@@ -1,7 +1,4 @@
 
-Express.js app that serves to distribute your iOS apps from your own
-distribution server.
-
 
 TODO:
 - add Heroku support
